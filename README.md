@@ -7,7 +7,7 @@ when the mass ratio is chosen as 100^n.
 
 Inspired by 3Blue1Brown.
 
-[GIF]()
+![GIF](https://github.com/user-attachments/assets/d932b71b-4594-4ba0-9cf6-c304db1a03cf)
 
 ## How it works
 
