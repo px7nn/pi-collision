@@ -8,30 +8,3 @@ when the mass ratio is chosen as 100^n.
 Inspired by 3Blue1Brown.
 
 ![GIF](https://github.com/user-attachments/assets/d932b71b-4594-4ba0-9cf6-c304db1a03cf)
-
-## How it works
-
-- Two blocks collide elastically in 1D
-- One block also collides with a wall
-- The number of collisions is counted
-
-For mass ratio:
-
-    m2 = 100^n
-
-The number of collisions ≈ first n digits of π
-
-## Notes
-
-- Uses substepping for collision accuracy
-- Large masses require higher precision
-
-## Build & Run
-
-Requires gcc (MinGW) and Raylib.
-
-Build and run:
-```
-mingw32-make run
-```
-> Note: `raylib.dll` must be inside the `build/` folder
